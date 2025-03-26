@@ -6,4 +6,4 @@
     <li>⚡ Fun fact : life 🙃</li>
 </ul>
 
-<p>I'm a full-stack developer with a strong foundation, starting programming at 17 with C. My expertise extends to a range of languages including <b>PHP</b>, <b>Go</b>, <b>JavaScript</b>, <b>Python</b>, and <b>C#</b>. I'm passionate about building robust and scalable applications.</p>
+<p>I'm a full-stack developer with a strong foundation, starting programming at <b>17</b> with <b>C</b>. My expertise extends to a range of languages including <b>PHP</b>, <b>Go</b>, <b>JavaScript</b>, <b>Python</b>, and <b>C#</b>. I'm passionate about building robust and scalable applications.</p>
